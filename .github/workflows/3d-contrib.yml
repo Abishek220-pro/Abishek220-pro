@@ -8,17 +8,20 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Abishek220-pro
 
-      - run: |
+      - name: Commit and push
+        run: |
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
           git add -A
           git diff --staged --quiet || git commit -m "generate 3d contrib"
-          git push
+          git push origin main
