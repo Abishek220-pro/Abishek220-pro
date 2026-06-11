@@ -77,7 +77,6 @@ Deploy & Host     ░░░░░░░░░░  Not Started
 
 ## 📅 Contribution Graph
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Full+Stack+Developer+in+progress...;DSA+learner+%F0%9F%A7%A0;One+commit+at+a+time+%F0%9F%9A%80)
----
+![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)---
 
 *⭐ Star my repos if you find them helpful!*
