@@ -10,7 +10,8 @@
 </div>
 
 ---
-<img src="https://raw.githubusercontent.com/Abishek220-pro/Abishek220-pro/main/solo-leveling.jpg" width="280" align="right" />
+<center><img src="https://raw.githubusercontent.com/Abishek220-pro/Abishek220-pro/main/solo-leveling.jpg" width="280" align="right" />
+</center>
 ## 🙋 About Me
 
 - 🎓 **Computer Science Student** passionate about building real world products
