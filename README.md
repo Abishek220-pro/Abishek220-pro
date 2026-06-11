@@ -1,9 +1,5 @@
 # Hi there, I'm Abishek 👋
-
-> *"Learning every day — one commit at a time."*
-
 ---
-
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/79dd12e1-63fd-49df-9859-235d2bd101be" />
 
 ## 🙋 About Me
