@@ -10,9 +10,8 @@
 </div>
 
 ---
-<center><img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/36e0da0a-0c5f-4054-8969-a2bf88530a4c" />
+<center><img width="735" height="397" alt="image" src="https://github.com/user-attachments/assets/a51190c0-4fdf-46d3-b165-06cefe988ff4" /> </center>
 
-</center>
 ## 🙋 About Me
 
 - 🎓 **Computer Science Student** passionate about building real world products
