@@ -77,6 +77,5 @@ Deploy & Host     ░░░░░░░░░░  Not Started
 
 ## 📅 Contribution Graph
 
-![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)---
-
+![Snake animation](https://raw.githubusercontent.com/Abishek220-pro/Abishek220-pro/output/github-contribution-grid-snake-dark.svg)
 *⭐ Star my repos if you find them helpful!*
