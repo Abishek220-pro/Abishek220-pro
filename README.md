@@ -1,13 +1,11 @@
 <div align="center">
 
-# Hi there, I'm Abishek 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=200&section=header&text=Hi%20I'm%20Abishek%20👋&fontSize=50&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20Progress%20%7C%20DSA%20Learner&descAlignY=58&descSize=18&descColor=ffffff" />
 
-### 🚀 Full Stack Developer in Progress | DSA Learner
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Learning+every+day+%F0%9F%93%96;Full+Stack+Developer+in+progress...;DSA+Pattern+by+Pattern+%F0%9F%A7%A0;One+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=🚀+Building+from+Zero+to+Full+Stack;🧠+DSA+Pattern+by+Pattern;💡+One+Commit+at+a+Time;🔥+Learning+Every+Single+Day)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/Abishek220-pro?style=social)](https://github.com/Abishek220-pro)
-[![Profile Views](https://komarev.com/ghpvc/?username=Abishek220-pro&color=brightgreen&style=flat)](https://github.com/Abishek220-pro)
+[![Profile Views](https://komarev.com/ghpvc/?username=Abishek220-pro&color=00ff88&style=flat-square&label=Profile+Views)](https://github.com/Abishek220-pro)
 
 </div>
 
@@ -49,39 +47,6 @@
 
 ---
 
-## 🗺️ Full Stack Roadmap
-
-| Stage | Topic | Status |
-|-------|-------|--------|
-| 01 | HTML Basics & Semantic HTML | 🔥 In Progress |
-| 02 | CSS, Flexbox, Grid, Animations | 🔜 Next |
-| 03 | JavaScript (ES6+, DOM, APIs) | 🔜 Upcoming |
-| 04 | React.js | 🔜 Upcoming |
-| 05 | Node.js & Express | 🔜 Upcoming |
-| 06 | Databases (SQL + MongoDB) | 🔜 Upcoming |
-| 07 | REST APIs & Authentication | 🔜 Upcoming |
-| 08 | Deployment (Vercel, Render) | 🔜 Upcoming |
-
----
-
-## 🧩 DSA Progress (Pattern Wise)
-
-| # | Pattern | Solved | Status |
-|---|---------|--------|--------|
-| 01 | Arrays & Strings | 0 / 20 | 🔜 Starting |
-| 02 | Two Pointers | 0 / 15 | 🔜 Starting |
-| 03 | Sliding Window | 0 / 15 | 🔜 Starting |
-| 04 | Hashing | 0 / 15 | 🔜 Starting |
-| 05 | Recursion & Backtracking | 0 / 20 | 🔜 Starting |
-| 06 | Sorting & Searching | 0 / 15 | 🔜 Starting |
-| 07 | Stack & Queue | 0 / 15 | 🔜 Starting |
-| 08 | Trees & Graphs | 0 / 25 | 🔜 Starting |
-| 09 | Dynamic Programming | 0 / 25 | 🔜 Starting |
-
-> 💡 Update the numbers as you solve problems daily!
-
----
-
 ## 📁 My Repos
 
 | Repo | Description | Status |
@@ -118,8 +83,8 @@
 
 <div align="center">
 
-⭐ **Star my repos if you find them helpful!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=100&section=footer&animation=fadeIn" />
 
-*"Learning every day — one commit at a time."* 🚀
+⭐ **Star my repos if you find them helpful!**
 
 </div>
