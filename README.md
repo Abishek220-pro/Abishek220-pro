@@ -1,15 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=200&section=header&text=Hi%20I'm%20Abishek%20👋&fontSize=50&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20Progress%20%7C%20DSA%20Learner&descAlignY=58&descSize=18&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0066ff,100:0d1117&height=200&section=header&text=Hi%20I'm%20Abishek%20👋&fontSize=50&fontColor=00aaff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20Progress%20%7C%20DSA%20Learner&descAlignY=58&descSize=18&descColor=ffffff" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=🚀+Building+from+Zero+to+Full+Stack;🧠+DSA+Pattern+by+Pattern;💡+One+Commit+at+a+Time;🔥+Learning+Every+Single+Day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=🚀+Building+from+Zero+to+Full+Stack;🧠+DSA+Pattern+by+Pattern;💡+One+Commit+at+a+Time;🔥+Learning+Every+Single+Day)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/Abishek220-pro?style=social)](https://github.com/Abishek220-pro)
-[![Profile Views](https://komarev.com/ghpvc/?username=Abishek220-pro&color=00ff88&style=flat-square&label=Profile+Views)](https://github.com/Abishek220-pro)
+[![Profile Views](https://komarev.com/ghpvc/?username=Abishek220-pro&color=0066ff&style=flat-square&label=Profile+Views)](https://github.com/Abishek220-pro)
 
 </div>
 
 ---
+
+<img src="https://raw.githubusercontent.com/Abishek220-pro/Abishek220-pro/main/solo-leveling.jpg" width="280" align="right" />
 
 ## 🙋 About Me
 
@@ -20,6 +22,8 @@
 - 🏆 Goal: Become a **Full Stack Developer** and crack top product companies
 - 📍 Based in **India**
 - 🔗 Find me on: [GitHub](https://github.com/Abishek220-pro)
+
+<br clear="right"/>
 
 ---
 
@@ -83,7 +87,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=100&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0066ff,100:0d1117&height=100&section=footer&animation=fadeIn" />
 
 ⭐ **Star my repos if you find them helpful!**
 
