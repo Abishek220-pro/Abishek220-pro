@@ -77,8 +77,7 @@ Deploy & Host     ░░░░░░░░░░  Not Started
 
 ## 📅 Contribution Graph
 
-![Snake animation](https://github.com/abishek67/abishek67/blob/output/github-contribution-grid-snake.svg)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Full+Stack+Developer+in+progress...;DSA+learner+%F0%9F%A7%A0;One+commit+at+a+time+%F0%9F%9A%80)
 ---
 
 *⭐ Star my repos if you find them helpful!*
