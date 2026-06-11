@@ -10,7 +10,8 @@
 </div>
 
 ---
-<center><img src="https://raw.githubusercontent.com/Abishek220-pro/Abishek220-pro/main/solo-leveling.jpg" width="280" align="right" />
+<center><img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/36e0da0a-0c5f-4054-8969-a2bf88530a4c" />
+
 </center>
 ## 🙋 About Me
 
