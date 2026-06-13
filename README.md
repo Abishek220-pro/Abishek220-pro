@@ -12,7 +12,7 @@
 ---
 <center><img width="735" height="397" alt="image" src="https://github.com/user-attachments/assets/a51190c0-4fdf-46d3-b165-06cefe988ff4" /> </center>
 
-## 🙋 About Me
+               ## 🙋 About Me
 
 - 🎓 **Computer Science Student** passionate about building real world products
 - 🌱 Currently learning **HTML → CSS → JavaScript → React → Node.js**
