@@ -1,10 +1,4 @@
 <div align="center">
-<!-->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0066ff&height=150&section=header&text=Full%20Stack%20%26%20DSA&fontSize=30&fontColor=ffffff&animation=fadeIn" />
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0066ff,100:0d1117&height=200&section=header&text=Hi%20I'm%20Abishek%20👋&fontSize=50&fontColor=00aaff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20Progress%20%7C%20DSA%20Learner&descAlignY=58&descSize=18&descColor=ffffff" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=🚀+Building+from+Zero+to+Full+Stack;🧠+DSA+Pattern+by+Pattern;💡+One+Commit+at+a+Time;🔥+Learning+Every+Single+Day)](https://git.io/typing-svg)
