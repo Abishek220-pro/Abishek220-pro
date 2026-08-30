@@ -1,91 +1,116 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0066ff,100:0d1117&height=200&section=header&text=Hi%20I'm%20Abishek%20👋&fontSize=50&fontColor=00aaff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20Progress%20%7C%20DSA%20Learner&descAlignY=58&descSize=18&descColor=ffffff" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=🚀+Building+from+Zero+to+Full+Stack;🧠+DSA+Pattern+by+Pattern;💡+One+Commit+at+a+Time;🔥+Learning+Every+Single+Day)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0066ff,100:0d1117&height=220&section=header&text=ABISHEK%20👋&fontSize=55&fontColor=00aaff&animation=fadeIn&fontAlignY=38&desc=Code%20%E2%80%A2%20Build%20%E2%80%A2%20Break%20%E2%80%A2%20Learn&descAlignY=60&descSize=18&descColor=ffffff"/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Abishek220-pro?style=social)](https://github.com/Abishek220-pro)
-[![Profile Views](https://komarev.com/ghpvc/?username=Abishek220-pro&color=0066ff&style=flat-square&label=Profile+Views)](https://github.com/Abishek220-pro)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00AAFF&center=true&vCenter=true&width=650&lines=Building+Real+Things+%F0%9F%9A%80;Learning+DSA+%F0%9F%A7%A0;Full+Stack+in+Progress+%F0%9F%92%BB;Exploring+Cybersecurity+%F0%9F%94%90;One+Commit+at+a+Time+%E2%9A%A1"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Abishek220-pro&color=0066ff&style=flat-square&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
-<center><img width="735" height="397" alt="image" src="https://github.com/user-attachments/assets/a51190c0-4fdf-46d3-b165-06cefe988ff4" /> </center>
 
-               ## 🙋 About Me
+## ⚡ About
 
-- 🎓 **Computer Science Student** passionate about building real world products
-- 🌱 Currently learning **HTML → CSS → JavaScript → React → Node.js**
-- 🧩 Practicing **DSA** pattern by pattern — organized and structured
-- 💡 Documenting my **entire journey** on GitHub from zero to full stack
-- 🏆 Goal: Become a **Full Stack Developer** and crack top product companies
-- 📍 Based in **India**
-- 🔗 Find me on: [GitHub](https://github.com/Abishek220-pro)
+```text
+🎓 Computer Science Student
+💻 Full Stack Developer in Progress
+🧠 DSA • Problem Solving • Computer Science
+🔐 Exploring Cybersecurity
+🚀 Building projects and learning by doing
+```
 
-<br clear="right"/>
+I like understanding **how things work**, building them myself, breaking them,
+and improving them.
 
----
-
-## 🛠️ Tech Stack
-
-**Currently Learning:**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Tools I Use:**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**Coming Soon:**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+> **Learn → Build → Break → Fix → Repeat.**
 
 ---
 
-## 📁 My Repos
-
-| Repo | Description | Status |
-|------|-------------|--------|
-| [🌐 Full-Stack-Journey](https://github.com/Abishek220-pro/Full-Stack-Journey) | HTML → CSS → JS → React → Node → DB | 🔥 Active |
-| [🧠 DSA-Patterns](https://github.com/Abishek220-pro/DSA-Patterns) | Problems organized by pattern | 🔜 Coming Soon |
-| [🚀 Projects](https://github.com/Abishek220-pro/Projects) | Real projects I build | 🔜 Coming Soon |
-
----
-
-## 📊 GitHub Stats
+## 🧠 Currently Building My Skills
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abishek220-pro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+### 💻 Development
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek220-pro&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Abishek220-pro&theme=tokyonight&hide_border=true)
+### 🧩 Problem Solving
 
-</div>
+<img src="https://skillicons.dev/icons?i=java,cpp,python"/>
 
----
+### 🛠️ Tools
 
-## 📅 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Abishek220-pro/Abishek220-pro/output/github-contribution-grid-snake-dark.svg)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
 
 </div>
 
 ---
 
+## 🚀 What I'm Working On
+
+| Focus            | What I'm Doing                                      |
+| ---------------- | --------------------------------------------------- |
+| 💻 Full Stack    | Building web applications                           |
+| 🧠 DSA           | Solving problems & learning patterns                |
+| 🔐 Cybersecurity | Exploring security concepts                         |
+| ⚙️ Backend       | APIs, databases & system design                     |
+| 🐧 Linux         | Learning and customizing my development environment |
+
+---
+
+## 📂 Featured Projects
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0066ff,100:0d1117&height=100&section=footer&animation=fadeIn" />
+<a href="https://github.com/Abishek220-pro/Full-Stack-Journey">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abishek220-pro&repo=Full-Stack-Journey&theme=tokyonight&hide_border=true"/>
+</a>
 
-⭐ **Star my repos if you find them helpful!**
+<a href="https://github.com/Abishek220-pro/DSA-Patterns">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abishek220-pro&repo=DSA-Patterns&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
+
+---
+
+## 📈 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abishek220-pro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek220-pro&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Abishek220-pro/Abishek220-pro/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌌 Keep Building.
+
+**Code something. Break something. Learn something.**
+
+<br>
+
+<a href="https://github.com/Abishek220-pro">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00aaff"/>
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0066ff,100:0d1117&height=100&section=footer"/>
